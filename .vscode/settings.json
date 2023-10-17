@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Iot2\\Session 1\\PROG1284\\Contenu\\Partie 3\\.jar JSSC\\jssc-2.9.5.jar",
+        "c:\\Iot2\\Session 1\\PROG1284\\Contenu\\Partie 3\\.jar JSSC\\jssc-2.9.5-javadoc.jar",
+        "c:\\Iot2\\Session 1\\PROG1284\\Contenu\\Partie 3\\.jar JSSC\\jssc-2.9.5-sources.jar"
+    ]
+}
